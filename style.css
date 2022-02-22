@@ -266,6 +266,18 @@ textarea {
   transition: 0.1s;
 }
 
+.wp-block-code>code {
+  font-family: unset;
+  color: unset;
+  padding: unset;
+  border: unset;
+  border-radius: unset;
+}
+
+.wp-block-code {
+  border: 1px solid !important;
+}
+
 /**
  * 2.0 - Genericons
  */
